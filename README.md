@@ -17,7 +17,13 @@ Write a Verilog code and simulate 8 bit Processor which perform the following op
 ->Logical Operations
 
 
+## ALU Functoins
 
+
+## Code Design
+
+
+## ALU Operations
 ## Opcode and Result
 a) 000 Result = Operand1 + Operand2 (add)
 
@@ -35,6 +41,12 @@ g) 110 Result = ~(Operand1 | Operand2) (nor)
 
 h) 111 Result = Operand1 ^ Operand2 (xor)
 
+## Simulation_1
+
+
+
+## Simulation_2
+https://github.com/NehaNevrekar/ALU-8-Bit-Processor/issues/5#issue-696511171
 
 
 ## Conclusion
