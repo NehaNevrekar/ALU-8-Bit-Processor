@@ -18,7 +18,7 @@ Write a Verilog code and simulate 8 bit Processor which perform the following op
 
 
 ## ALU Functions
-
+https://github.com/NehaNevrekar/ALU-8-Bit-Processor/issues/1#issue-696508950
 
 ## Code Design
 
