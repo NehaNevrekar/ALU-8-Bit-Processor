@@ -26,7 +26,7 @@ https://github.com/NehaNevrekar/ALU-8-Bit-Processor/issues/2#issue-696509619
 
 
 ## ALU Operations
-
+https://github.com/NehaNevrekar/ALU-8-Bit-Processor/issues/3#issue-696510300
 
 
 ## Opcode and Result
